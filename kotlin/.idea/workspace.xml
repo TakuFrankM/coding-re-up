@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaa10d10-1224-4867-898d-738078069354" name="Changes" comment="Kotlin gradle files" />
+    <list default="true" id="eaa10d10-1224-4867-898d-738078069354" name="Changes" comment="kotlin: directory restructure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,19 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.kotlin [:HelloWorldKt.main()].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.kotlin [:HelloWorldKt.main()].executor": "Run",
+    "Gradle.kotlin [:basics.HelloWorldKt.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="basics" />
+      <recent name="basics.basics" />
+    </key>
+  </component>
   <component name="RunManager" selected="Kotlin.HelloWorldKt (1)">
     <configuration name="HelloWorldKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics.HelloWorldKt" />
@@ -97,6 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770075979271</updated>
       <workItem from="1770075980492" duration="554000" />
+      <workItem from="1770076588689" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="Kotlin Hello World and directory setup">
       <option name="closed" value="true" />
@@ -114,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770076529613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="kotlin: directory restructure">
+      <option name="closed" value="true" />
+      <created>1770076676391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770076676391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kotlin Hello World and directory setup" />
     <MESSAGE value="Kotlin gradle files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin gradle files" />
+    <MESSAGE value="kotlin: directory restructure" />
+    <option name="LAST_COMMIT_MESSAGE" value="kotlin: directory restructure" />
   </component>
 </project>
